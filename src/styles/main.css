@@ -1,0 +1,64 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 1.4;
+  padding: 30px;
+  color: white;
+  background-color: #000000;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 100%25 100%25'%3E%3Cdefs%3E%3ClinearGradient id='a' x1='0' x2='0' y1='0' y2='100%25' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='0' stop-color='%23004e9a'/%3E%3Cstop offset='0.02' stop-color='%23000000'/%3E%3Cstop offset='0.02' stop-color='%23001534'/%3E%3Cstop offset='0.032' stop-color='%23000000'/%3E%3Cstop offset='0.032' stop-color='%230078e1'/%3E%3Cstop offset='0.056' stop-color='%23000000'/%3E%3Cstop offset='0.056' stop-color='%23001c3d'/%3E%3Cstop offset='0.07' stop-color='%23000000'/%3E%3Cstop offset='0.07' stop-color='%230056a3'/%3E%3Cstop offset='0.1' stop-color='%23000000'/%3E%3Cstop offset='0.1' stop-color='%23000d44'/%3E%3Cstop offset='0.126' stop-color='%23000000'/%3E%3Cstop offset='0.126' stop-color='%2300366d'/%3E%3Cstop offset='0.142' stop-color='%23000000'/%3E%3Cstop offset='0.142' stop-color='%23002952'/%3E%3Cstop offset='0.159' stop-color='%23000000'/%3E%3Cstop offset='0.159' stop-color='%23002545'/%3E%3Cstop offset='0.17' stop-color='%23000000'/%3E%3Cstop offset='0.17' stop-color='%2300112e'/%3E%3Cstop offset='0.197' stop-color='%23000000'/%3E%3Cstop offset='0.197' stop-color='%23001d47'/%3E%3Cstop offset='0.218' stop-color='%23000000'/%3E%3Cstop offset='0.218' stop-color='%23002054'/%3E%3Cstop offset='0.239' stop-color='%23000000'/%3E%3Cstop offset='0.239' stop-color='%23002755'/%3E%3Cstop offset='0.254' stop-color='%23000000'/%3E%3Cstop offset='0.254' stop-color='%23001528'/%3E%3Cstop offset='0.283' stop-color='%23000000'/%3E%3Cstop offset='0.283' stop-color='%230058a7'/%3E%3Cstop offset='0.294' stop-color='%23000000'/%3E%3Cstop offset='0.294' stop-color='%2300305a'/%3E%3Cstop offset='0.305' stop-color='%23000000'/%3E%3Cstop offset='0.305' stop-color='%23004d90'/%3E%3Cstop offset='0.332' stop-color='%23000000'/%3E%3Cstop offset='0.332' stop-color='%23004481'/%3E%3Cstop offset='0.346' stop-color='%23000000'/%3E%3Cstop offset='0.346' stop-color='%23003c77'/%3E%3Cstop offset='0.362' stop-color='%23000000'/%3E%3Cstop offset='0.362' stop-color='%23002e66'/%3E%3Cstop offset='0.381' stop-color='%23000000'/%3E%3Cstop offset='0.381' stop-color='%2300336a'/%3E%3Cstop offset='0.415' stop-color='%23000000'/%3E%3Cstop offset='0.415' stop-color='%23004587'/%3E%3Cstop offset='0.428' stop-color='%23000000'/%3E%3Cstop offset='0.428' stop-color='%2300539f'/%3E%3Cstop offset='0.442' stop-color='%23000000'/%3E%3Cstop offset='0.442' stop-color='%23003768'/%3E%3Cstop offset='0.456' stop-color='%23000000'/%3E%3Cstop offset='0.456' stop-color='%23004586'/%3E%3Cstop offset='0.498' stop-color='%23000000'/%3E%3Cstop offset='0.498' stop-color='%23001d38'/%3E%3Cstop offset='0.511' stop-color='%23000000'/%3E%3Cstop offset='0.511' stop-color='%23004b92'/%3E%3Cstop offset='0.532' stop-color='%23000000'/%3E%3Cstop offset='0.532' stop-color='%23004b8d'/%3E%3Cstop offset='0.541' stop-color='%23000000'/%3E%3Cstop offset='0.541' stop-color='%23002957'/%3E%3Cstop offset='0.56' stop-color='%23000000'/%3E%3Cstop offset='0.56' stop-color='%23004c8e'/%3E%3Cstop offset='0.581' stop-color='%23000000'/%3E%3Cstop offset='0.581' stop-color='%23005bae'/%3E%3Cstop offset='0.6' stop-color='%23000000'/%3E%3Cstop offset='0.6' stop-color='%2300519b'/%3E%3Cstop offset='0.618' stop-color='%23000000'/%3E%3Cstop offset='0.618' stop-color='%23004f9a'/%3E%3Cstop offset='0.656' stop-color='%23000000'/%3E%3Cstop offset='0.656' stop-color='%23001e3a'/%3E%3Cstop offset='0.679' stop-color='%23000000'/%3E%3Cstop offset='0.679' stop-color='%23002959'/%3E%3Cstop offset='0.689' stop-color='%23000000'/%3E%3Cstop offset='0.689' stop-color='%23003d7e'/%3E%3Cstop offset='0.720' stop-color='%23000000'/%3E%3Cstop offset='0.720' stop-color='%23003570'/%3E%3Cstop offset='0.734' stop-color='%23000000'/%3E%3Cstop offset='0.734' stop-color='%23003268'/%3E%3Cstop offset='0.748' stop-color='%23000000'/%3E%3Cstop offset='0.748' stop-color='%23004181'/%3E%3Cstop offset='0.764' stop-color='%23000000'/%3E%3Cstop offset='0.764' stop-color='%2300559f'/%3E%3Cstop offset='0.788' stop-color='%23000000'/%3E%3Cstop offset='0.788' stop-color='%23004f98'/%3E%3Cstop offset='0.808' stop-color='%23000000'/%3E%3Cstop offset='0.808' stop-color='%23000e46'/%3E%3Cstop offset='0.831' stop-color='%23000000'/%3E%3Cstop offset='0.831' stop-color='%23004f97'/%3E%3Cstop offset='0.856' stop-color='%23000000'/%3E%3Cstop offset='0.856' stop-color='%230078e1'/%3E%3Cstop offset='0.872' stop-color='%23000000'/%3E%3Cstop offset='0.872' stop-color='%23003768'/%3E%3Cstop offset='0.894' stop-color='%23000000'/%3E%3Cstop offset='0.894' stop-color='%23001d3e'/%3E%3Cstop offset='0.914' stop-color='%23000000'/%3E%3Cstop offset='0.914' stop-color='%2300539e'/%3E%3Cstop offset='0.942' stop-color='%23000000'/%3E%3Cstop offset='0.942' stop-color='%23001b3b'/%3E%3Cstop offset='0.957' stop-color='%23000000'/%3E%3Cstop offset='0.957' stop-color='%23003a6f'/%3E%3Cstop offset='0.973' stop-color='%23000000'/%3E%3Cstop offset='0.973' stop-color='%2300509a'/%3E%3Cstop offset='1' stop-color='%23000000'/%3E%3Cstop offset='1' stop-color='%2300376a'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect fill='url(%23a)' x='0' y='0' width='100%25' height='100%25'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.Super {
+  box-shadow: 2px 2px 2px 2px white;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100vh;
+  min-height: 75vh;
+}
+
+.header {
+  text-align: center;
+}
+
+.accordion-wrapper {
+  margin-top: 0.5em;
+}
+
+.accordion-item {
+  overflow: hidden;
+  transition: max-height 0.3s;
+  height: auto;
+  max-height: 9999px;
+}
+
+.accordion-item.collapsed {
+  max-height: 0;
+  transition: max-height 0.35s;
+}
+
+.accordion-title {
+  font-weight: 600;
+  cursor: pointer;
+  color: black;
+  padding: 0.5em 1.5em;
+  box-shadow: 2px 2px 2px 2px white;
+  border-radius: 1.5em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 3rem;
+  background-color: white;
+}
+
+.accordion-content {
+  padding: 1em 1.5em;
+}
+/*# sourceMappingURL=main.css.map *//*# sourceMappingURL=main.css.map */
